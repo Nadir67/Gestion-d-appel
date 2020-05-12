@@ -1,2 +1,2 @@
-# Gestion-des appel
-Développement d’une application gestion d’appel basé sur le langage Java
+# Gestion-des appels
+Développement d’une application gestion des appels basé sur le langage Java
